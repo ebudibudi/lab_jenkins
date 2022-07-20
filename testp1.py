@@ -1,3 +1,3 @@
-print("Git and Jenkins Intergration")
+rint("Git and Jenkins Intergration")
 print("Git and Jenkins Intergration")
 print("Git and Jenkins Intergration")
